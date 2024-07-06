@@ -1,16 +1,15 @@
-[![MasterHead](https://cdn.dribbble.com/users/1235346/screenshots/3252385/job.gif)]
 <h1 align="center">Hi 👋, I'm Aksha Malik</h1>
-<h3 align="center">I am an ambitious and passionate React Developer.</h3>
+<h3 align="center">I am an ambitious and passionate FullStack Developer.</h3>
 <img align="right" alt="Coding" width="400" src="https://images.lemonly.com/wp-content/uploads/2018/08/07150313/Homebase_Thumb_v01.gif" >
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akshamalik&label=Profile%20views&color=0e75b6&style=flat" alt="akshamalik" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **React.js and Next.js**
+- 🌱 I’m currently learning **Python**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Akshamalik/Portfolio](https://github.com/Akshamalik/Portfolio)
+- 👨‍💻 All of my projects are available at 
 
-- 💬 Ask me about **Frontened Tools**
+- 💬 Ask me about **FullStack tools -HTML,CSS,JS and Framework such as Reactjs and NextJs**
 
 - 📫 How to reach me **aksha5u786@gmail.com**
 
