@@ -1,19 +1,21 @@
 <h1 align="center">Hi 👋, I'm Aksha Malik</h1>
-<h3 align="center">I am an ambitious and passionate FullStack Developer.</h3>
+<h3 align="center">I am an ambitious and passionate Full-stack & Microsoft Dynamics 365 developer.</h3>
 <img align="right" alt="Coding" width="400" src="https://images.lemonly.com/wp-content/uploads/2018/08/07150313/Homebase_Thumb_v01.gif" >
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akshamalik&label=Profile%20views&color=0e75b6&style=flat" alt="akshamalik" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning new tech tools and building cool projects
+  
+- **Microsoft Certified: Power Platform Functional Consultant Associate**
+  
+- 👨‍💻 All of my projects are available at my portfolio
 
-- 👨‍💻 All of my projects are available at 
-
-- 💬 Ask me about **FullStack tools -HTML,CSS,JS and Framework such as Reactjs and NextJs**
+- 💬 Ask me about **FullStack tools -HTML,CSS,ShadnCn,Tailwindcss, and Framework such as Reactjs,Django and NextJs and Languages such as C, C++, Javascript, C# and MSCRM**
 
 - 📫 How to reach me **aksha5u786@gmail.com**
 
-- ⚡ Fun fact **I love programming**
+- ⚡ Fun fact **I love programming and creativity**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
