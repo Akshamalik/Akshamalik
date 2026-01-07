@@ -3,8 +3,6 @@
 <img align="right" alt="Coding" width="400" src="https://images.lemonly.com/wp-content/uploads/2018/08/07150313/Homebase_Thumb_v01.gif" >
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akshamalik&label=Profile%20views&color=0e75b6&style=flat" alt="akshamalik" /> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
 - 🌱 I’m currently learning new tech tools and building cool projects
   
 - **Microsoft Certified: Power Platform Functional Consultant Associate**
